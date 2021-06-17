@@ -1,0 +1,9 @@
+.taskList-container{
+    padding: 10px 20px;
+}
+
+.add-container{
+    position:fixed;
+    bottom:30px;
+    right:30px;
+}
